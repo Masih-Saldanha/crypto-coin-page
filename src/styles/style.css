@@ -1,0 +1,31 @@
+body {
+  background-color: #DDDDDD;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #000000;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 22px;
+  color: #FFFFFF;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+h4 {
+  color: #777777;
+}
