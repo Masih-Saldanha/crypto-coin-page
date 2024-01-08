@@ -5,6 +5,7 @@ import GeneralContext from "../contexts/GeneralContext";
 function Main() {
   const general = useContext(GeneralContext);
   const { global } = general;
+  
   return <Loading message={`MAIN PAGE ${global}`}></Loading>;
 }
 
